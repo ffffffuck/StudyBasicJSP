@@ -4,4 +4,4 @@ create table buy(
 	deliveryTel varchar(20) not null,
 );
 
-desc buy;1111
+desc buy;11111111111111111111111
