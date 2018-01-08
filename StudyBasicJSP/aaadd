@@ -1,0 +1,7 @@
+desc buy;
+
+create table buy(
+	deliveryTel varchar(20) not null,
+);
+
+desc buy;
